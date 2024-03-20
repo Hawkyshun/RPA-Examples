@@ -1,0 +1,7 @@
+Create workflow
+Get full name
+Display first letter of full name
+Get year of birth
+Calculate age
+Display name and age
+Write the result
